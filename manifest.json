@@ -1,6 +1,6 @@
 {
-  "name": "Jackpotcast NFT Marketplace",
-  "short_name": "Jackpotcast NFT Marketplace",
+  "name": "JackpotCast NFT Marketplace",
+  "short_name": " JackpotCast NFT Marketplace",
   "display": "standalone",
   "start_url": "./",
   "theme_color": "#002140",
